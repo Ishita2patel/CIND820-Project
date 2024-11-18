@@ -28,12 +28,12 @@ The dataset consists of feature vectors belonging to 12,330 sessions. The datase
 | Weekend             | Boolean value indicating whether the date of the visit is weekend        | 2                |
 | Month               | Month value of the visit date                                            | 12               |
 | Revenue             | Class label: whether the visit has been finalized with a transaction     | 2                |
-##### Data Preprocessing
+#### Data Preprocessing
 ##### Data Balancing
 Undersampling, Oversampling and SMOTE methods were used to test performance of models after sampling due to the large discrepancy between the counts positive and negative target variables.
 ##### Data Scaling
 Normalization and Standardization techniques were applied to test performance of models
-##### Modeling and Feature Selection
+#### Modeling and Feature Selection
 ##### Feature Selection
 Pearson correlation, Random Forest, and Recursive Feature Elimination feature selection techniques were applied
 ##### Crossvalidation
@@ -42,9 +42,9 @@ K-fold and Time-series cross-validation techniques were tested to look for model
 Random Forest model parameters were adjusted
 ##### Additional Metrics
 Brier's Score, Matthew's Correlation, variance of metrics were measured
-##### Results and Discussion
+#### Results and Discussion
 Insights into customer purchasing behavior.
 Recommendations for e-commerce optimization strategies.
-##### Final Report
+#### Final Report
 Consolidated findings in a structured report.
 Shared actionable insights and implications for e-commerce.
