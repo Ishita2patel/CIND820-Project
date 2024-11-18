@@ -45,3 +45,6 @@ Brier's Score, Matthew's Correlation, variance of metrics were measured
 ##### Results and Discussion
 Insights into customer purchasing behavior.
 Recommendations for e-commerce optimization strategies.
+##### Final Report
+Consolidated findings in a structured report.
+Shared actionable insights and implications for e-commerce.
