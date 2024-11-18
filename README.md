@@ -34,12 +34,14 @@ Undersampling, Oversampling and SMOTE methods were used to test performance of m
 ##### Data Scaling
 Normalization and Standardization techniques were applied to test performance of models
 ##### Modeling and Feature Selection
-Feature Selection
+##### Feature Selection
 Pearson correlation, Random Forest, and Recursive Feature Elimination feature selection techniques were applied
-Crossvalidation
+##### Crossvalidation
 K-fold and Time-series cross-validation techniques were tested to look for model performance improvements
-Model Tuning
+##### Model Tuning
 Random Forest model parameters were adjusted
-Additional Metrics
+##### Additional Metrics
 Brier's Score, Matthew's Correlation, variance of metrics were measured
-
+##### Results and Discussion
+Insights into customer purchasing behavior.
+Recommendations for e-commerce optimization strategies.
