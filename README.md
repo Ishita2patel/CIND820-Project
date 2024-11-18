@@ -33,4 +33,13 @@ The dataset consists of feature vectors belonging to 12,330 sessions. The datase
 Undersampling, Oversampling and SMOTE methods were used to test performance of models after sampling due to the large discrepancy between the counts positive and negative target variables.
 ##### Data Scaling
 Normalization and Standardization techniques were applied to test performance of models
+##### Modeling and Feature Selection
+Feature Selection
+Pearson correlation, Random Forest, and Recursive Feature Elimination feature selection techniques were applied
+Crossvalidation
+K-fold and Time-series cross-validation techniques were tested to look for model performance improvements
+Model Tuning
+Random Forest model parameters were adjusted
+Additional Metrics
+Brier's Score, Matthew's Correlation, variance of metrics were measured
 
